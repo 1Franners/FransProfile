@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Franners' Webpage</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 40px;
+        }
+
+        h1 {
+            color: #333;
+        }
+
+        p {
+            line-height: 1.6;
+            color: #666;
+        }
+
+        a {
+            color: #007BFF;
+        }
+    </style>
+</head>
+<body>
+    <h1>Welcome to My Webpage</h1>
+    
+    <section>
+        <h2>Introduction</h2>
+        <p>My name is Franners, and I'm a noob trying to host a webpage on GitHub.</p>
+    </section>
+
+    <section>
+        <h2>About Me</h2>
+        <p>I am currently based in Singapore.</p>
+    </section>
+
+    <section>
+        <h2>Contact Information</h2>
+        <p>You can contact me on my <a href="https://github.com/1Franners" target="_blank">1Franners GitHub profile</a>.</p>
+    </section>
+</body>
+</html>
